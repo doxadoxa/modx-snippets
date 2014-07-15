@@ -7,7 +7,7 @@ Snippets for MODx Evo
 List snippet use to render HTML-lists elements
 
 ### Use
-`[[List? &tv=\`[*some_list_param*]\`]]`
+``[[List? &tv=`[*some_list_param*]`]]``
 
 ### Params
 #### &tv
